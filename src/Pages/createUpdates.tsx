@@ -4,6 +4,8 @@ export const CreateUpdate = () =>{
     return(
         <div>
             <AddSalesData/>
+            
         </div>
+
     )
 }
